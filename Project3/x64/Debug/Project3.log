@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\jafar\OneDrive\Masaüstü\ara\Project3\Project3\Source.cpp(147,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\Project3\Project3\Source.cpp(321,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\Project3\Project3\Source.cpp(324,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\Project3\Project3\Source.cpp(360,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\jafar\OneDrive\Masaüstü\ara\Project3\Project3\Source.cpp(351): error C4700: uninitialized local variable 'debtor_name' used
